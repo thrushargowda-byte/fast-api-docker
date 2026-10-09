@@ -21,7 +21,8 @@ def students():
             "Sneha",
             "Rohit",
             "Damodar",
-            "Thrusha"
+            "Thrusha",
+            "Arundhathi"
         ]
     }
 
